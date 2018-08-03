@@ -1,0 +1,25 @@
+{
+  "name": "testnodeapp",
+  "version": "1.0.0",
+  "description": "This is a test to check commit.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferre138/awsnodetest.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jayme Cunha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ferre138/awsnodetest/issues"
+  },
+  "homepage": "https://github.com/ferre138/awsnodetest#readme",
+  "devDependencies": {
+    "express": "^4.16.3"
+  }
+}
