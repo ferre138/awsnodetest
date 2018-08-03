@@ -1,3 +1,5 @@
 # awsnodetest
 
-This is a test to check commit
+This is a test to check commit.
+
+Another test.
