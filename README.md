@@ -3,7 +3,7 @@
 1. Give the information you want, everything can be skipped besides author and entry point, add your name to author and app.js as entry point.
 1. Add dependencies (most common are express, ejs, body-parser)
    1. For devDependencies - `npm install module-example --save-dev`
-		 1. For dependencies -`npm install module-example --save-prod`
+   1. For dependencies -`npm install module-example --save-prod`
 1. Create app.js - `nano app.js` or `touch app.js`
 1. Write sample nodejs application:
 ```javascript
@@ -21,9 +21,3 @@ app.get('/', function(req, res){
 
 app.listen(3000, () => console.log('Server running on port 3000'));
 ```
-
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
