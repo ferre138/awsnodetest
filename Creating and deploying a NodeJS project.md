@@ -1,4 +1,4 @@
-#Create Node.js application
+# Create Node.js application
 1. Go to or create the directory where the project will be saved
 1. Start npm - `npm start`
 1. Give the information you want, everything can be skipped besides author and entry point, add your name to author and app.js as entry point.
