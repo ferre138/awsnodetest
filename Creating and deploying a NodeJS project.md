@@ -7,7 +7,7 @@
    1. For dependencies -`npm install module-example --save-prod`
 1. Create app.js - `nano app.js` or `touch app.js`
 1. Write sample nodejs application to app.js:
-   1. ```javascript
+```javascript
 var express	= require('express'),
 app             = express(),
 bodyParser	= require("body-parser");
@@ -22,7 +22,7 @@ app.get('/', function(req, res){
 
 app.listen(3000, () => console.log('Server running on port 3000'));
 ```
-1. Run nodejs application - `node app.js`
+7. Run nodejs application - `node app.js`
 
 # Kill Node.js application
 To stop the app - `killall -9 node`
