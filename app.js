@@ -7,7 +7,7 @@ app.set("view engine", "ejs");
 app.use(express.static('public'));
 
 app.get('/', function(req, res){ 
-	res.send('HEY! YOU THRE!');
+	res.send('HEY! YOU THERE!');
 });
 
 app.listen(3000, () => console.log('Server running on port 3000'));
